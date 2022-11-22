@@ -1,6 +1,5 @@
 import React from 'react';
 
-
 export default function Navbar() {
   return (
     <nav className="n">
@@ -14,7 +13,7 @@ export default function Navbar() {
           <a href="/About">About</a>
         </li>
         <li>
-          <a href="/Contact">Contact</a>
+          <a href="/Projects">Projects</a>
         </li>
       </ul>
     </nav>
