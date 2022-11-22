@@ -1,0 +1,77 @@
+
+.about{
+    font-family: 'Montserrat', sans-serif;
+    align-items: center;
+    justify-content: center;
+}
+
+.about-me{
+    color: #f9ab00;
+    text-align: center;
+    font-size: 3.5rem;
+    font-weight: 800;
+    margin-top: 30px;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+.subtitle {
+    color: white;
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    justify-content: center;
+}
+
+.about-content {
+    flex: 1;
+    color: white;
+    display: flex;
+    word-spacing: 2px;
+    position: relative;
+    flex-direction: row;
+    margin: auto;
+    width: 40%;
+    font-size: 120%;
+    justify-content: center;
+}
+
+.bio {                                                                                                                                                                                                                                      
+    margin-top: 10px;
+    line-height: 1.5;
+    justify-content: center;
+}
+
+.resume{
+    display: flex;
+    justify-content: center;
+    flex: 1;
+    margin-top: 30px;
+}
+
+.social-container {
+    text-align: center;
+    justify-content: center;
+    padding: 10px;
+}
+
+.contact-title {
+    color: #f9ab00;
+    text-align: center;
+    justify-content: center;
+    margin-top: 80px;
+    margin-bottom: 30px;
+    font-size: 30px;
+}
+
+.contact-content {
+    color: white;
+    text-align: center;
+    justify-content: center;
+    line-height: .75;
+    margin-top: 20px;
+}
+
+.contact{
+    flex-direction: row;
+}

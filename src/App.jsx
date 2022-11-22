@@ -3,13 +3,17 @@ import About from "./components/about/About";
 import Projects from "./components/projects/Projects";
 import Navbar from "./Navbar";
 import "./styles.css";
-import { Link, BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { Routes, Route } from "react-router-dom";
 
 function App() {
   return (
     <div className="App">
       <Navbar />
-      <Home />
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/about" element={<About />} />
+        <Route path="/projects" element={<Projects />} />
+      </Routes>
     </div>
   );
 }
