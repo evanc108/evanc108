@@ -1,0 +1,15 @@
+.projects{
+    font-family: 'Montserrat', sans-serif;
+    align-items: center;
+    justify-content: center;
+}
+
+.projects-title {
+    color: #f9ab00;
+    text-align: center;
+    font-size: 3.5rem;
+    font-weight: 800;
+    margin-top: 30px;
+    justify-content: center;
+    margin-bottom: 50px;
+}
