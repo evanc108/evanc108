@@ -1,7 +1,6 @@
-import Intro from './components/intro/Intro';
+import Home from './components/home/Home';
 import Navbar from './Navbar';
 import './styles.css';
-import Granim from "granim";
 
 function App() {
   return (
@@ -9,7 +8,7 @@ function App() {
     <div className="App">
       <Navbar />
       
-      <Intro />
+      <Home />
       
     </div>
   );

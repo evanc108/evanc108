@@ -5,6 +5,7 @@
 body{
     margin: 0;
     font-family: 'Montserrat', sans-serif;
+    background-color: rgb(32, 32, 32);
 }
 
 .title{
@@ -13,8 +14,8 @@ body{
 }
 
 .n{
-    background-color: gainsboro;
-    color: black;
+    background-color: rgb(32, 32, 32);
+    color: white;
     display: flex;
     justify-content: space-between;
     align-items: stretch;
@@ -29,6 +30,7 @@ body{
     list-style: none;
     display: flex;
     gap: 1rem;
+    margin-right: 60px;
 }
 
 .n li:hover{
