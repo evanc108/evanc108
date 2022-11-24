@@ -26,7 +26,7 @@ const Home = () => {
             <FontAwesomeIcon icon={faGithub} size="3x" />
           </a>
           <a
-            href="https://www.linkedin.com/in/evan-chang-3b7a2724a/"
+            href="https://mail.google.com/mail/u/0/#inbox"
             className="email"
           >
             <FontAwesomeIcon icon={faEnvelope} size="3x" />

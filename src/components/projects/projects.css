@@ -2,6 +2,11 @@
     font-family: 'Montserrat', sans-serif;
     align-items: center;
     justify-content: center;
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
 }
 
 .projects-title {
@@ -9,7 +14,74 @@
     text-align: center;
     font-size: 3.5rem;
     font-weight: 800;
-    margin-top: 30px;
+    margin-top: 40px;
     justify-content: center;
     margin-bottom: 50px;
+}
+
+.maze{
+    width: 550px;
+    margin-bottom: 60px;
+    background-color: rgb(32, 32, 32);
+    border-color: rgb(68, 68, 68);
+    border-style:double;
+    border-radius: 5%;
+}
+
+.web{
+    width: 550px;
+    margin-bottom: 60px;
+    background-color: rgb(32, 32, 32);
+    border-color: rgb(68, 68, 68);
+    border-style:double;
+    border-radius: 5%;
+}
+
+.green{
+    width: 550px;
+    margin-bottom: 60px;
+    background-color: rgb(32, 32, 32);
+    border-color: rgb(68, 68, 68);
+    border-style:double;
+    border-radius: 5%;
+}
+
+.language{
+    font-size: 15px;
+    font-weight: 600;
+    color: white;
+    margin-top: 20px;
+}
+
+.a{
+    color: #f9ab00;
+    font-size: 30px;
+    text-align: center;
+    justify-content: center;
+    padding: 15px;
+}
+
+.b{
+    color: white;
+}
+
+.links{
+    color: #f9ab00;
+    border-radius: 15%;
+    font-size: 20px;
+    background-color: rgb(41, 40, 40);
+    border-color: rgb(68, 68, 68);
+    text-decoration: none;
+}
+
+.links:hover{
+    background-color: rgb(76, 76, 77);
+    border-radius: 15%;
+}
+
+.i{
+    border-radius: 10%;
+    height: 70px;
+    justify-content: center;
+    text-align: center;
 }
