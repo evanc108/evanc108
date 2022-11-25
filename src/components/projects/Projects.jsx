@@ -38,10 +38,10 @@ const ProjectItem = () => {
           </CCardText>
         </CCardBody>
         <CCardFooter>
-          <small className="text-medium-emphasis">
-            <button onClick="https://github.com/evanc108/maze" className="links">
-              Code
-            </button>
+        <small className="text-medium-emphasis">
+            <a href="https://github.com/evanc108/maze" target="_blank" rel="noreferrer">
+              <button className="links">Code</button>
+            </a>
           </small>
         </CCardFooter>
       </CCard>
@@ -62,10 +62,10 @@ const ProjectItem = () => {
           </CCardText>
         </CCardBody>
         <CCardFooter>
-          <small className="text-medium-emphasis">
-            <button onClick="https://github.com/evanc108/Dubhacks2022" className="links">
-              Code
-            </button>
+        <small className="text-medium-emphasis">
+            <a href="https://github.com/evanc108/Dubhacks2022" target="_blank" rel="noreferrer">
+              <button className="links">Code</button>
+            </a>
           </small>
         </CCardFooter>
       </CCard>
