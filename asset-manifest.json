@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/evanc108.github.io/static/css/main.7113bc67.css",
+    "main.js": "/evanc108.github.io/static/js/main.9430d97d.js",
+    "static/media/background.jpg": "/evanc108.github.io/static/media/background.a7df4e52b63b081ebe4d.jpg",
+    "static/media/app.png": "/evanc108.github.io/static/media/app.0429aa1d1074a850500f.png",
+    "static/media/resume.jpg": "/evanc108.github.io/static/media/resume.b2cfecfa796edc3b947c.jpg",
+    "static/media/web.png": "/evanc108.github.io/static/media/web.ffec1aebaa0c055aa2ef.png",
+    "static/media/greensprout.png": "/evanc108.github.io/static/media/greensprout.20c1b996144b7404a74c.png",
+    "static/media/maze.png": "/evanc108.github.io/static/media/maze.6bc44b62e57378303764.png",
+    "index.html": "/evanc108.github.io/index.html",
+    "main.7113bc67.css.map": "/evanc108.github.io/static/css/main.7113bc67.css.map",
+    "main.9430d97d.js.map": "/evanc108.github.io/static/js/main.9430d97d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7113bc67.css",
+    "static/js/main.9430d97d.js"
+  ]
+}
