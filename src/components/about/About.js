@@ -25,27 +25,28 @@ const About = () => {
         <p className="contact-content">425-394-6451</p>
         <p className="contact-content">University of Washington</p>
         <div className="social-container">
-        <a href="https://github.com/evanc108" className="github">
-          <FontAwesomeIcon icon={faGithub} size="3x" />
-        </a>
-        <a
-          href="https://www.linkedin.com/in/evan-chang-3b7a2724a/"
-          className="email"
-        >
-          <FontAwesomeIcon icon={faEnvelope} size="3x" />
-        </a>
-        <a
-          href="https://www.linkedin.com/in/evan-chang-3b7a2724a/"
-          className="linkedin"
-        >
-          <FontAwesomeIcon icon={faLinkedin} size="3x" />
-        </a>
+          <a href="https://github.com/evanc108" className="github">
+            <FontAwesomeIcon icon={faGithub} size="3x" />
+          </a>
+          <a
+            href="https://www.linkedin.com/in/evan-chang-3b7a2724a/"
+            className="email"
+          >
+            <FontAwesomeIcon icon={faEnvelope} size="3x" />
+          </a>
+          <a
+            href="https://www.linkedin.com/in/evan-chang-3b7a2724a/"
+            className="linkedin"
+          >
+            <FontAwesomeIcon icon={faLinkedin} size="3x" />
+          </a>
+        </div>
       </div>
-      </div>
-      
-      <div className="resume">
-        <img src={Resume} />
-      </div>
+      <a href="https://docs.google.com/document/d/1RV0N79rc0Buw6vj2vHSBODOnmxqiJyvJyIgIdd0DP7Q/edit?usp=sharing">
+        <div className="resume">
+          <img src={Resume} />
+        </div>
+      </a>
     </div>
   );
 };

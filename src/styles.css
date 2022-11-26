@@ -7,7 +7,9 @@ body{
     margin: 0;
     font-family: 'Montserrat', sans-serif;
     background-color: rgb(41, 40, 40);
-    
+    background-image: url("./img/background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .title{
